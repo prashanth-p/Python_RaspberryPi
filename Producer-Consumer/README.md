@@ -1,3 +1,7 @@
+This Producer Consumer Program written in python is a simple solution for the Problem Statement as stated below. The solution makes use of the queue module, thus simplifying the problem. 
+
+The solution can also make use of a concept called Semaphores, which is present in the threading library, threading.Semaphore(). Read more about it in the Python Documentation.
+
 
 # Producer Consumer Problem 
 
